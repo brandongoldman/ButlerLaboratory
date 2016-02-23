@@ -26,14 +26,14 @@
             <li class="clear">
               <div class="imgl borderedbox"><img src="images/index/ken-wagener.jpg" alt="Dr. Kenneth Wagener"></div>
               <p class="nospace btmspace-15"><a href="http://www.cmse.ufl.edu/news/wagener-paul-j-flory-award.php" target="_blank">Dr. Wagener receives Paul J. Flory Polymer Education Award</a></p>
-              <p>Dr. Ken Wagener has been selected for the 2016 <a href="http://www.polyacs.org/">American Chemical Society</a> Polymer Division <a href="http://www.polyacs.org/254.html">Paul J. Flory Polymer Education Award</a>.  The award, which is presented to one person every other year, recognizes extraordinary contributions to polymer science and engineering. In addition, Wagener is being honored for outstanding achievements in promoting undergraduate and graduate polymer education. The award is named for distinguished American chemist Paul J. Flory, who won the Nobel Prize in Chemistry in 1974 for his research achievements in the physical chemistry of macromolecules.
+              <p>Dr. Ken Wagener has been selected for the 2016 <a href="http://www.polyacs.org/">American Chemical Society</a> Polymer Division <a href="http://www.polyacs.org/254.html">Paul J. Flory Polymer Education Award</a>.  The award is presented to one scientist in the nation every other year, recognizing extraordinary contributions to polymer science. In addition, Wagener is being honored for outstanding achievements in promoting undergraduate and graduate polymer education. The award is named for distinguished American chemist Paul J. Flory, who won the Nobel Prize in Chemistry in 1974 for his research achievements in the physical chemistry of macromolecules.
 </p>
             </li>
             
             <li class="clear">
               <div class="imgl borderedbox"><img src="images/index/robert-waymouth.JPG" alt="Dr. Robert Waymouth"></div>
               <p class="nospace btmspace-15"><a href="http://www.cmse.ufl.edu/people/speaker/robert-waymouth.php" target="_blank">Stanford's Dr. Waymouth chosen to present 2015 - 2016 Butler Lectureship Series</a></p>
-              <p>The CMSE is pleased to announce that  <strong>Dr. Robert Waymouth</strong> will be presenting the 2015 <a href="http://butlerlabs.chem.ufl.edu/butler-lectureship-series.php" target="_blank">Butler Leactureship Series</a> during the Fall 2015 and Spring 2016 semester. <a href = "documents/Waymouth Lecture Schedule.pdf">View Fall 2015 and Spring 2016 schedule &raquo;</a></p>
+              <p>The CMSE is pleased to announce that  <strong>Dr. Robert Waymouth</strong> will be presenting the 2015 <a href="http://butlerlabs.chem.ufl.edu/butler-lectureship-series.php" target="_blank">Butler Leactureship Series</a> during the Fall 2015 and Spring 2016 semester. <a href = "documents/Waymouth Poster.pdf">View Spring 2016 schedule &raquo;</a></p>
             </li>
             
             <li class="clear">
